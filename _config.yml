@@ -283,6 +283,8 @@ defaults:
       author_profile: true
       share: true
 
+theme: minimal-mistakes-jekyll
+
 
 # Sass/SCSS
 sass:
