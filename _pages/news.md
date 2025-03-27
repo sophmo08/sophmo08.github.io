@@ -1,12 +1,11 @@
-
 ---
-permalink: /
+layout: archive
 title: "News"
-author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
----
+permalink: /news/
+author_profile: false
+redirect_from:
+  - /news
+--- 
 
 2025
 
