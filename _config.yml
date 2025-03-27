@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "mint"
 title                    : "Sophie Moser"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -282,8 +282,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-theme: minimal-mistakes-jekyll
 
 
 # Sass/SCSS
