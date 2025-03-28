@@ -7,7 +7,7 @@ excerpt: 'This article investigates the impact of demographic team faultlines on
 date: 2022-10-22
 venue: 'European Journal of Work and Organizational Psychology'
 slidesurl: #
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1080/1359432X.2022.2136522)'
+paperurl: "https://doi.org/10.1080/1359432X.2022.2136522"
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
