@@ -3,7 +3,7 @@ title: "Age- and Gender-Related Barriers to Career Advancement and Leader Emerge
 collection: publications
 category: conferences
 permalink: /publication/2025-07-25-conference
-excerpt: 'Age- and Gender-Related Barriers to Career Advancement and Leader Emergence [Symposium]; Presented at the 85th Academy of Management Annual Meeting.'
+excerpt:  #
 date: 2025-07-25
 venue: '85th Academy of Management Annual Meeting in Copenhagen, Denmark'
 paperurl: ''
