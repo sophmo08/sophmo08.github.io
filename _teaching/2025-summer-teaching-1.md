@@ -2,7 +2,7 @@
 title: "Organizations of Tomorrow: Trends, Challenges, Research Method"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-summer-teaching-1
 venue: "University of Konstanz, Politics and Public Administration"
 date: 2025-03-01
 location: "Konstanz, Germany"
