@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-07-25-conference
 excerpt:  #
-date: 2025-07-25
+date: 2025-07-29
 venue: '85th Academy of Management Annual Meeting in Copenhagen, Denmark'
 paperurl: #
 citation: #
