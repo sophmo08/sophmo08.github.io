@@ -64,9 +64,11 @@
     {% endif %}
     
 
-{% assign citation_label = "Recommended citation:" %}
-{% if post.category == "conferences" %}
+{% assign collaboration_categories = "conferences,work-in-progress" | split: "," %}
+{% if collaboration_categories contains post.category %}
   {% assign citation_label = "In collaboration with:" %}
+{% else %}
+  {% assign citation_label = "Recommended citation:" %}
 {% endif %}
 
 {% if post.citation and post.paperurl and post.slidesurl %}
@@ -82,6 +84,7 @@
 {% elsif post.slidesurl %}
   <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
 {% endif %}
+
     
   </article>
 </div>
