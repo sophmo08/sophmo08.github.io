@@ -8,7 +8,7 @@ date: 2022-10-22
 venue: 'European Journal of Work and Organizational Psychology'
 slidesurl: #
 paperurl: "https://doi.org/10.1080/1359432X.2022.2136522"
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Moser, S., Reinwald, M., & Kunze, F. (2022). Does my leader care about my subgroup? A multilevel model of team faultlines, LMX quality, and employee absenteeism. <i>European Journal of Work and Organizational Psychology</i>, 32(2), 234–244. https://doi.org/10.1080/1359432X.2022.2136522'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
