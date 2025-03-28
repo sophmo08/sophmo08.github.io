@@ -6,6 +6,6 @@ permalink: /publication/2024-05-27-conference
 excerpt: #
 date: 2024-05-27
 venue: '17th Equality Diversity Inclusion Conference in Seville, Spain'
-paperurl: ''
+paperurl: #
 citation: #
 ---
