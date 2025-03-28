@@ -7,7 +7,7 @@ excerpt:  #
 date: 2025-07-29
 venue: '85th Academy of Management Annual Meeting in Copenhagen, Denmark'
 paperurl: #
-citation: #
+citation: 'Wang, Isaaca (The Chinese University of Hong Kong), Toby Tsnag (The Chinese University of Hong Kong)'
 ---
 
 
