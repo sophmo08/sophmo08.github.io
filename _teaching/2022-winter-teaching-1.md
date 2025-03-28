@@ -10,7 +10,8 @@ location: "Konstanz, Germany"
 
 Undergraduate Seminar in Winter Semester 2022 and Winter Semester 2023
 Student satisfaction: 1.1 (scale from 1 to 5 with 1 being the best rating)
-*** Nominated for LUKS Teaching Award of the University of Kon-stanz by students***
+
+***Nominated for LUKS Teaching Award of the University of Kon-stanz by students***
 
 
 Heading 1
