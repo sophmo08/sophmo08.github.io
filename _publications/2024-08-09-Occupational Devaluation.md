@@ -7,5 +7,5 @@ excerpt: '***Winner of 2024 William H. Newman Award for the best Academy of Mana
 date: 2024-08-09
 venue: '84th Academy of Management Annual Meeting in Chicago, Illinois'
 paperurl: 'https://journals.aom.org/doi/abs/10.5465/AMPROC.2024.17008abstract'
-citation: 'Moser, S. (2024). &quot;Occupational Devaluation, but Organizational Revaluation? Understanding Gendered Pay Discrimination.&quot; <i>84th Academy of Management Annual Meeting</i>.'
+citation: '-- (single-authored)'
 ---
