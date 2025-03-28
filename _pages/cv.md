@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-Download my CV as a PDF [here](). 
+Download my CV as a PDF [here]((../../files/cv.pdf)). 
 
 
