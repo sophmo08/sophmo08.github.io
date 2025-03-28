@@ -7,7 +7,7 @@ excerpt: #
 date: 2025-05-21
 venue: '22nd EAWOP Congress in Prague, Czech Republic & 85th Academy of Management Annual Meeting in Copenhagen, Denmark'
 paperurl: #
-citation: 'Lauterbach, Ann Sophie (University of Konstanz)'
+citation: 'Ann Sophie Lauterbach (University of Konstanz)'
 ---
 
 
