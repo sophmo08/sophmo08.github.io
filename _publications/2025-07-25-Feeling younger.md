@@ -3,9 +3,9 @@ title: "Feeling Younger, Sharing Knowledge: Understanding Blue-Collar Workers’
 collection: publications
 category: conferences
 permalink: /publication/2025-07-25-conference
-excerpt: 'Feeling Younger, Sharing Knowledge: Understanding Blue-Collar Workers’ Knowledge Transfer Behaviour; Presented at the 85th Academy of Management Annual Meeting.'
+excerpt: #
 date: 2025-07-25
-venue: '85th Academy of Management Annual Meeting'
+venue: '85th Academy of Management Annual Meeting in Copenhagen, Denmark'
 paperurl: ''
 citation: 'Hampel, K. & Moser, S. (2025). &quot;Feeling Younger, Sharing Knowledge: Understanding Blue-Collar Workers’ Knowledge Transfer Behaviour.&quot; <i>85th Academy of Management Annual Meeting</i>.'
 ---
