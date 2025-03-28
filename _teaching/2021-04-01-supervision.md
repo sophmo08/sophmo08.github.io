@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2022-winter-teaching-1
 venue: "University of Konstanz, Politics and Public Administration"
-date: 2024-04-01
+date: 2021-04-01
 location: "Konstanz, Germany"
 ---
 
