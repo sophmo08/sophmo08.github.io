@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Download my CV as a PDF [here]((/files/CV.pdf)). 
+Download my CV as a PDF [here](https://sophmo08.github.io/files/CV.pdf). 
 
 
-https://sophmo08.github.io/files/CV.pdf
+
