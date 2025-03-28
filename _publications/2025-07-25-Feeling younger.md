@@ -7,7 +7,7 @@ excerpt: #
 date: 2025-07-25
 venue: '85th Academy of Management Annual Meeting in Copenhagen, Denmark'
 paperurl: #
-citation: 'Hampel, Kilian (University of Konstanz)'
+citation: 'Kilian Hampel (University of Konstanz)'
 ---
 
 
