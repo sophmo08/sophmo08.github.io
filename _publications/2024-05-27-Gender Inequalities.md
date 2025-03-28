@@ -7,5 +7,5 @@ excerpt: #
 date: 2024-05-27
 venue: '17th Equality Diversity Inclusion Conference in Seville, Spain'
 paperurl: #
-citation: '-- (single-authored)'
+citation: 'single-authored'
 ---
