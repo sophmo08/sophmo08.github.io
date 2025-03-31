@@ -7,6 +7,7 @@ venue: "University of Konstanz"
 date: 2023-10-01
 location: "Konstanz, Germany"
 ---
+
 Undergraduate Seminar in Winter Semester 2023/2024
 
 This seminar introduces students to empirical approaches for studying diversity in organizational contexts. Against the backdrop of ongoing demographic and social changes, we critically examine how diversity manifests in the workplace and how it can be researched from a social science perspective. The course emphasizes the development of students' methodological skills: from formulating a compelling research question and hypotheses, to designing a suitable research design to investigate workplace inequality and inclusion.
