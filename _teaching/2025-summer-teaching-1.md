@@ -6,6 +6,7 @@ permalink: /teaching/2025-summer-teaching-1
 venue: "University of Konstanz"
 date: 2025-03-01
 location: "Konstanz, Germany"
+excerpt: "This seminar offers an in-depth introduction to empirical research in organizational behavior. Students gain hands-on experience designing and conducting studies using methods including regression, multilevel modeling, and vignette experiments."
 ---
 
 Undergraduate Seminar in Summer Semester 2025
