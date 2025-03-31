@@ -1,5 +1,5 @@
 ---
-title: "Organizations of Tomorrow: Trends, Challenges, Research Method"
+title: "Organizations of Tomorrow: Trends, Challenges, Research Methods"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-summer-teaching-1
