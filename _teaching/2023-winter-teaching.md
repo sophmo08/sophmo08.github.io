@@ -6,6 +6,7 @@ permalink: /teaching/2023-winter-teaching
 venue: "University of Konstanz"
 date: 2023-10-01
 location: "Konstanz, Germany"
+excerpt: "This seminar focuses on how to conduct research on diversity in organizations. Students learn to develop research questions and design suitable empirical studies to investigate workplace inequality and inclusion."
 ---
 
 Undergraduate Seminar in Winter Semester 2023/2024
