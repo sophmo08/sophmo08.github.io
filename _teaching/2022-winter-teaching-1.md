@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-winter-teaching-1
 venue: "University of Konstanz"
-date: 2022-09-01
+date: 2022-10-01
 location: "Konstanz, Germany"
 ---
 
