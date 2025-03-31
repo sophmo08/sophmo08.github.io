@@ -13,6 +13,6 @@ This seminar provides an overview of key theories and concepts essential for und
 In addition to exploring these content areas, students will also develop methodological skills. These include formulating relevant research questions and hypotheses, structuring academic papers, and designing appropriate research methods to investigate their questions.
 Student satisfaction: 1.1 (scale from 1 to 5 with 1 being the best rating)
 
-*** Nominated for LUKS Teaching Award of the University of Konstanz by students***
+***Nominated for LUKS Teaching Award of the University of Konstanz by students***
 "
 ---
