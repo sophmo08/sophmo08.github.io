@@ -1,19 +1,17 @@
 ---
-title: "Diversity in the World of Work – Opportunities and Challenges"
+title: "Diversity in the World of Work – Theories"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-winter-teaching-1
-venue: "University of Konstanz, Politics and Public Administration"
+venue: "University of Konstanz"
 date: 2022-10-01
 location: "Konstanz, Germany"
 excerpt: >
-  Undergraduate Seminar in Winter Semester 2022 and Winter Semester 2023
+  Undergraduate Seminar in Winter Semester 2022
 
-  Ongoing societal developments have led to increasing diversity among employees in teams and organizations. For instance, rising labor force participation among women, demographic change, and international migration are all contributing to increasingly diverse workforces and more heterogeneous teams.
+  This undergraduate seminar provides a broad introduction to key theories and concepts relevant to understanding diversity in teams and organizations. We explore how societal shifts—such as increased female labor participation, demographic change, and international migration—are shaping increasingly diverse workplaces. Students engage with questions such as: What types of diversity exist? How does diversity affect collaboration and performance in teams? What challenges arise, and what opportunities can diversity create? And ultimately: How can organizations manage diversity effectively?
 
-  This seminar provides an overview of key theories and concepts essential for understanding diversity in organizational contexts. We address questions such as: What types of diversity exist? What are the effects of diversity in the workplace? What challenges and opportunities does diversity present? And finally: How can diversity be effectively managed?
-
-  In addition to exploring these content areas, students will also develop methodological skills. These include formulating relevant research questions and hypotheses, structuring academic papers, and designing appropriate research methods to investigate their questions.
+In addition to exploring topics like the gender pay gap and female representation in top management, the course integrates academic writing training to support students in crafting their first term papers.
 
   **Student satisfaction:** 1.1 (scale from 1 to 5 with 1 being the best rating)
 
