@@ -2,7 +2,7 @@
 title: "Diversity in the World of Work – Opportunities and Challenges"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-winter-teaching-1
+permalink: /teaching/2023-winter-teaching
 venue: "University of Konstanz"
 date: 2023-10-01
 location: "Konstanz, Germany"
