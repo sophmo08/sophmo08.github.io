@@ -1,18 +1,6 @@
 ---
-layout: collection
+layout: archive
 title: "Teaching"
 permalink: /teaching/
-collection: teaching
-entries_layout: list
 author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% capture full_content %}
-    {{ post.content | markdownify }}
-  {% endcapture %}
-
-  {% include archive-single.html content=full_content %}
-{% endfor %}
