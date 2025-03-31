@@ -16,6 +16,6 @@ Students engage with questions such as: What types of diversity exist? How does 
 
 In addition to exploring topics like the gender pay gap and female representation in top management, the course integrates academic writing training to support students in crafting their very first term papers.
 
-**Student satisfaction:** 1.4 (scale from 1 to 5 with 1 being the best rating)
+**Student satisfaction:** 1.4 (scale from 1 to 5 with 1 being the best rating) 
 
 ***Nominated for LUKS Teaching Award of the University of Konstanz by students***
