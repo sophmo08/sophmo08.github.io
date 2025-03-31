@@ -14,7 +14,7 @@ This undergraduate seminar provides a broad introduction to key theories and con
 
 Students engage with questions such as: What types of diversity exist? How does diversity affect collaboration and performance in teams? What challenges arise, and what opportunities can diversity create? And ultimately: How can organizations manage diversity effectively?
 
-In addition to exploring topics like the gender pay gap and female representation in top management, the course integrates academic writing training to support students in crafting their first term papers.
+In addition to exploring topics like the gender pay gap and female representation in top management, the course integrates academic writing training to support students in crafting their very first term papers.
 
 **Student satisfaction:** 1.4 (scale from 1 to 5 with 1 being the best rating)
 
