@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate students"
 permalink: /teaching/2021-04-01-supervision
 venue: "University of Konstanz"
-date: #
+date: 2022-10-01
 location: "Konstanz, Germany"
 ---
 
