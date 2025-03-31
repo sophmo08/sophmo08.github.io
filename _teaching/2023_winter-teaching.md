@@ -1,4 +1,3 @@
-
 ---
 title: "Diversity in the World of Work – Opportunities and Challenges"
 collection: teaching
