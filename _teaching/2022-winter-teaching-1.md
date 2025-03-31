@@ -6,6 +6,7 @@ permalink: /teaching/2022-winter-teaching-1
 venue: "University of Konstanz"
 date: 2022-10-01
 location: "Konstanz, Germany"
+excpert: "This seminar explores key theories and concepts of diversity in teams and organizations. Alongside thematic content, students receive guidance in academic writing as they prepare their first term papers. ***Nominated for LUKS Teaching Award of the University of Konstanz by students***"
 ---
 
 **Undergraduate Seminar in Winter Semester 2022**
