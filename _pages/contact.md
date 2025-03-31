@@ -7,7 +7,6 @@ redirect_from:
   - /contact
 ---
 
-
 Whether you have a question about my research, are interested in collaboration, or just want to connect — I'd love to hear from you!
 
 You can reach me via [email](mailto:sophie.moser@t-online.de) or send a message on [LinkedIn](https://www.linkedin.com/in/sophie-moser/).
