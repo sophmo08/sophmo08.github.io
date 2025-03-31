@@ -8,12 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <article>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p><strong>{{ post.venue }}</strong> — {{ post.date | date: "%Y" }}</p>
-    <div>
-      {{ post.content }}
-    </div>
-  </article>
-  <hr>
+  {% include archive-single.html %}
 {% endfor %}
