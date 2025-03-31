@@ -10,16 +10,9 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <article class="archive__item">
-    <h2 class="archive__item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
-    {% if post.venue %}
-      <p><strong>{{ post.venue }}</strong> — {{ post.date | date: "%Y" }}</p>
-    {% endif %}
-    <div class="archive__item-excerpt">
-      {{ post.content }}
-    </div>
-  </article>
-  <hr>
+  {% capture full_content %}
+    {{ post.content | markdownify }}
+  {% endcapture %}
+
+  {% include archive-single.html content=full_content %}
 {% endfor %}
