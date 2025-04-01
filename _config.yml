@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint"
+site_theme               : "air"
 title                    : "Sophie Moser"
 title_separator          : "-"
 name                     : &name "Sophie Moser"
